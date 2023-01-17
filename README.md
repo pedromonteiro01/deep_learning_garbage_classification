@@ -1,6 +1,8 @@
 # FAA Project 2 - Deep Learning Garbaje Classification
 
-Dataset available on Kaggl:e <br>
+Second FAA project that consists of identifying and classifying images of different types of garbage using deep learning. <br>
+
+Dataset available on Kaggle: <br>
 https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
 Authors:  
