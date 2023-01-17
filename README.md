@@ -5,7 +5,7 @@ Second FAA project that consists of identifying and classifying images of differ
 Dataset available on Kaggle: <br>
 https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
-Authors:  
+Team:  
 nmec  | name             | email                
 ---   | ---              | ---                   
 97484 | Pedro Monteiro     | pmapm@ua.pt      
